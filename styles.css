@@ -5,7 +5,7 @@ body {
 
 h1 {
   text-align: center;
-  margin-bottom: 20px;
+  margin-bottom: 25px;
 }
 
 table {
@@ -14,22 +14,22 @@ table {
 }
 
 th, td {
-  border: 1px solid #999;
+  border: 1px solid #888;
   padding: 8px;
   text-align: center;
 }
 
 th {
-  background-color: #f0f0f0;
+  background: #f2f2f2;
 }
 
 .section td {
-  background-color: #ddd;
+  background: #ddd;
   font-weight: bold;
   text-align: left;
 }
 
 tfoot th {
-  background-color: #e8e8e8;
+  background: #e8e8e8;
   font-weight: bold;
 }
